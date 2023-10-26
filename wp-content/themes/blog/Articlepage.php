@@ -162,7 +162,7 @@ foreach($blog as $totalblogs){
     </section>
   </main>
   <!--content sction-->
-
+dfgnfghfghgjhgjhkjhkjhkjhkjlkjlkjlklkl
   <?php get_footer();?>
 
 
